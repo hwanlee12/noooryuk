@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="862754b2-9d93-4aed-b40e-4b0f91bd4ca8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../cpp/algorithm/algorithm/algorithm.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/algorithm/algorithm/algorithm.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/algorithm/algorithm/algorithm.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/algorithm/algorithm/algorithm.vcxproj.filters" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11399.py" beforeDir="false" afterPath="$PROJECT_DIR$/11399.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20115.py" beforeDir="false" afterPath="$PROJECT_DIR$/20115.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -4,6 +4,6 @@ n = float(input())
 drink = list(map(float, input().split()))
 drink.sort()
 ans = drink[-1]
-for i in range(len(drink) - 1):
-    ans += drink[i] / 2
+for item in drink[:int(n) - 1]:
+    ans += item / 2
 print(ans)
