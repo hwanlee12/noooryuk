@@ -1,2 +1,10 @@
 
 add_executable(algorithm_2751 algorithm/2751.cpp)
+add_executable(algorithm_2557 algorithm/2557.cpp)
+add_executable(algorithm_1000 algorithm/1000.cpp)
+add_executable(algorithm_2558 algorithm/2558.cpp)
+add_executable(algorithm_10950 algorithm/10950.cpp)
+add_executable(algorithm_10951 algorithm/10951.cpp)
+add_executable(algorithm_10952 algorithm/10952.cpp)
+add_executable(algorithm_10953 algorithm/10953.cpp)
+add_executable(algorithm_11021 algorithm/11021.cpp)
